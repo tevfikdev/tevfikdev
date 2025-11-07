@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, ben Tevfik</h1>
 
-<!--
-**tevfikdev/tevfikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  💻 <b>Frontend Developer</b><br>
+  🌐 Web & 📱 Mobil
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Hakkımda
+- 🎨 Modern, sade ve kullanıcı dostu arayüzler geliştiriyorum.  
+- ⚙️ HTML, CSS, JavaScript ve Firebase, AI gibi teknolojilerle çalışıyorum.  
+- 🌱 Her gün yeni şeyler öğrenmeye ve projelerimi geliştirmeye devam ediyorum.  
+
+---
+
+### 🧠 Kullandığım Teknolojiler
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,firebase,github,ai" alt="skills" />
+</p>
+
+---
+
+### 📈 Hedeflerim
+- 🚀 Yeni web projeleri üretmek  
+- 📲 Mobil uyumlu tasarımlar geliştirmek  
+- 🌟 Açık kaynak dünyasına katkı sağlamak  
+
+---
+
+### 📫 Bana Ulaş
+<p align="center">
+  <a href="https://x.com/tevfikdev" target="_blank"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=flat&logo=x&logoColor=white" width="120" height="120" /></a>
+  <a href="https://github.com/tevfikdev"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" width="120" height="120" /></a>
+</p>
